@@ -11,7 +11,7 @@ public class EMUtils {
 		emf = Persistence.createEntityManagerFactory("CRM");
 	}
 
-	static EntityManager createConnection() {
+	public static EntityManager createConnection() {
 		EntityManager em = emf.createEntityManager();
 		return em;
 	}
