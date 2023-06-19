@@ -85,9 +85,4 @@ Follow these steps to set up and run the project:
 
 Contributions to this project are welcome. If you have any ideas, suggestions, or bug reports, please create an issue or submit a pull request.
 
-## License
 
-This project is licensed under the [MIT License](LICENSE).
-
----
-Feel free to modify the README file according to your specific project details and preferences.
