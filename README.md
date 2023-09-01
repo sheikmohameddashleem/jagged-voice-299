@@ -22,7 +22,9 @@ This project is a Customer Relationship Management (CRM) software application th
   - Change account password.
   - View and reply to customer issues.
   - View customer feedback.
-![Database Schema]([https://github.com/github.png](https://github.com/sheikmohameddashleem/jagged-voice-299/blob/main/SparkFlow%20Database%20Schema.png))
+## Database Schema
+<p> <img src="SparkFlow Database Schema.png" alt="Project Diagram" width="150"> </p>
+
 ## Tech Stack
 
 The CRM software is developed using the following technologies:
