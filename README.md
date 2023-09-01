@@ -23,7 +23,7 @@ This project is a Customer Relationship Management (CRM) software application th
   - View and reply to customer issues.
   - View customer feedback.
 ## Database Schema
-<p> <img src="SparkFlow Database Schema.png" alt="Project Diagram" width="150"> </p>
+<p> <img src="SparkFlow Database Schema.png" alt="Project Diagram"> </p>
 
 ## Tech Stack
 
